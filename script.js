@@ -30,7 +30,7 @@ const displayProfile = function (profile) {
         </figure>
         <div>
             <h2><a href=${profile.blog}><strong>${profile.name}</strong></a></h2>
-            <p>${profile.bio}</p>
+             <p>${profile.bio}</p>
             <p>
                 <strong>Location:</strong> ${profile.location}
             </p>
